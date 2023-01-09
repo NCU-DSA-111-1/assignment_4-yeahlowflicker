@@ -1,1 +1,5 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9402250&assignment_repo_type=AssignmentRepo)
+# Final Project - Web Search Engine
+
+通訊二 110503534 鄭宇軒
+
+This final project contains multiple children applications, including frontend and backend services. It is hence published in multiple repositories under the organization [Gooluguloo](https://github.com/Gooluguloo). Please visit the organization's page for the source.
